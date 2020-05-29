@@ -21,6 +21,6 @@
     Delete one or all of your items
     Includes a demo content (tap the cloud download icon in the action bar)
 # Screenshot
-![](/android_inventory1.png)
-![](/android_inventory2.png)
-![](/android_inventory3.png)
+![](/android_inventory1.jpg)
+![](/android_inventory2.jpg)
+![](/android_inventory3.jpg)
